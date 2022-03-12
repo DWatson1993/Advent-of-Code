@@ -1,0 +1,42 @@
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.exe
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\Puzzle input.txt
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.deps.json
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.json
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.dev.json
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfo.cs
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\AOC 2017 D1\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.genruntimeconfig.cache
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.exe
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\Puzzle input.txt
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.deps.json
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.json
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.dev.json
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfo.cs
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\AOC 2017 D1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.genruntimeconfig.cache
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.exe
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\Puzzle input.txt
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.deps.json
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.json
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.runtimeconfig.dev.json
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\bin\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.AssemblyInfo.cs
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.dll
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.pdb
+C:\Users\watso\source\repos\Advent of Code\2017\Day 1 Part 2\AOC 2017 D1\obj\Debug\netcoreapp3.1\AOC 2017 D1.genruntimeconfig.cache

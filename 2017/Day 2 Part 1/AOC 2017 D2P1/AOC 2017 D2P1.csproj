@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AOC_2017_D2P1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Puzzle input.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Puzzle input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

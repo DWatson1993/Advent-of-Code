@@ -1,0 +1,28 @@
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.exe
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\Input.txt
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.deps.json
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.runtimeconfig.json
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.runtimeconfig.dev.json
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.dll
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.pdb
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.AssemblyInfo.cs
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.dll
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.pdb
+C:\Users\watso\source\repos\AOC 2020 D2P2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.genruntimeconfig.cache
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.exe
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\Input.txt
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.deps.json
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.runtimeconfig.json
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.runtimeconfig.dev.json
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.dll
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\bin\Debug\netcoreapp3.1\AOC 2020 D2P2.pdb
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.AssemblyInfo.cs
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.dll
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.pdb
+C:\Users\watso\source\repos\Advent of Code\2020\Day 2 Part 2\AOC 2020 D2P1\obj\Debug\netcoreapp3.1\AOC 2020 D2P2.genruntimeconfig.cache
